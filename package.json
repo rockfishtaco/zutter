@@ -1,0 +1,15 @@
+{
+  "name": "zutter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://rockfishtaco.github.io/zutter",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
